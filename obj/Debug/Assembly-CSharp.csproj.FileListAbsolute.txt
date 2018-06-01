@@ -1,0 +1,2 @@
+/Users/neil/Desktop/UnityProjects/MMO/obj/Debug/Assembly-CSharp.csprojResolveAssemblyReference.cache
+/Users/neil/Desktop/UnityProjects/MMO/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache

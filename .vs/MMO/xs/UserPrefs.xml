@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{CAEB3896-DDD4-15A7-D54A-C105D91C147F}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/client_code/common/Net/SimpleSocket/TcpClient.cs">
+    <Files>
+      <File FileName="Assets/client_code/common/Net/NetManager.cs" Line="11" Column="5" />
+      <File FileName="Assets/client_code/common/Net/SimpleSocket/INetworkSupport.cs" Line="6" Column="5" />
+      <File FileName="Assets/client_code/common/Net/SimpleSocket/TcpClient.cs" Line="166" Column="61" />
+      <File FileName="Assets/client_code/common/Net/MemStream/MessageUtility.cs" Line="63" Column="1" />
+      <File FileName="Assets/client_code/common/Net/MemStream/MemStream.cs" Line="10" Column="9" />
+      <File FileName="Assets/client_code/common/Singleton/Singleton.cs" Line="9" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
